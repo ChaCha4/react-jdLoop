@@ -1,0 +1,4 @@
+使用：
+1.clone 项目到本地
+2.npm i
+3.npm start
